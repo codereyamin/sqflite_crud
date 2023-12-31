@@ -9,8 +9,9 @@ class SplashScreen extends GetView<SplashScreenController> {
   @override
   Widget build(BuildContext context) {
     return GetBuilder<SplashScreenController>(
-      init: SplashScreenController(),
+      init: SplashScreenController(), //////////// call splash screen controller
       builder: (controller) {
+        //////////// only loading message show
         return const Scaffold(
           body: Center(
               child: Column(
