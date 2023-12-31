@@ -1,16 +1,18 @@
-# sqflite_crud
+# Flutter Sqflite CRUD App
 
-A new Flutter project.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+ - Data-base  data Create or insert
+ - Data-base data Read
+ - Data-base data Update
+ - Data-base data Remove or Delete
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screen_shot/image1.png" width="250"> 
+<img src="screen_shot/image2.png" width="250"> 
+<img src="screen_shot/image3.png" width="250"> 
+<img src="screen_shot/image4.png" width="250"> 
+<img src="screen_shot/image5.png" width="250"> 
